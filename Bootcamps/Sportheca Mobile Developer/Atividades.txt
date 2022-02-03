@@ -1,0 +1,5 @@
+02/02/2022 	- Boas-vindas ao Bootcamp Sportheca Mobile Developer
+		- Mentoria #1
+		- Pensamento Computacional
+		- Introdução ao Git e ao Github (Realizado em outro bootcamp)
+		- Criando seu Primeiro Repositório no Github para Compartilhar Seu Progresso
