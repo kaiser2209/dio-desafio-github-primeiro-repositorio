@@ -2,5 +2,8 @@ Link para download do Git: https://git-scm.com/downloads
 
 Comandos Git
 
-Clonar: git clone
-Status: git status
+git clone {repositório github}	(Clonar para o repistório local)
+git status			(Status do Repositório)
+git add .			(Adicionar todos os arquivos)
+git commit -m "mensagem"	(Faz o commit das alterações com mensagem definida pelo usuário)
+git push origin main		(Envia o commit para o github)
